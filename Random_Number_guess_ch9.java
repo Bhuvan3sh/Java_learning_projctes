@@ -4,7 +4,7 @@ Author - Bhuvanesh
 Contact - abhuvanesh501@gmail.com
 GitHub profile link - https://github.com/Bhuvan3sh
 
-This is a program written in Java to create a random number by the computer, and user also enters a random number(guess). If the nnumbere entered by the user is correct then he has higest score.
+This is a program written in Java to create a random number by the computer, and user also enters a random number(guess). If the numbere entered by the user is correct then the compiler assignes him the higest score.
 Try is your self ;)
 
  */
